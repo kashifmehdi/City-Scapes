@@ -38,6 +38,8 @@ The model's performance is evaluated using metrics such as Intersection over Uni
 ## Results and Visualizations 📈
 Visualizations of segmentation masks, along with accuracy and loss curves during training, are provided in the evaluation notebook to illustrate the model's performance.
 
+![Image 2](https://github.com/kashifmehdi/City-Scapes/blob/26a5208b4999089ab76f565f7f648dc37de24948/Result.png)
+
 ## Contributing 🤝
 Contributions to the project are welcome! If you'd like to contribute enhancements or additional features, feel free to fork the repository and submit a pull request.
 
